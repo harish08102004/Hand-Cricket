@@ -1,0 +1,29 @@
+
+  
+  .instructions{
+    color: aliceblue;
+    margin-left: 70px;
+    margin-top: 80px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  #rules{
+    background-image:url(./rules-background.jpg);
+    background-repeat: no-repeat;
+    background-size: 1550px 750px;
+    opacity:2.5;
+    
+  }
+
+  #back-button{
+    font-size: 70px;
+    cursor: pointer;
+  }
+
+  .title{
+    margin-left: 660px;
+    opacity:2.5;
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }

@@ -1,0 +1,35 @@
+#index{
+  margin: 0;
+  padding: 0;
+  background-image: url("https://www.sociochick.com/assets/uploads/2015/05/childhood-games-in-school-01.jpg");
+  background-repeat: no-repeat;
+  background-size: 1550px 750px;
+}
+
+.heading{
+  margin-top: 90px;
+  margin-left: 340px;
+  padding-left: 340px;
+}
+
+#play-button{
+  color: rgb(33, 1, 1, 0.825);
+  margin-left: 680px;
+  margin-top: 350px;
+  font-size: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  cursor: pointer;
+  border: 1px solid rgb(242, 224, 176);
+  background-color: rgb(242, 224, 176);
+}
+
+.quote{
+  margin-left: 310px;
+  margin-top: 110px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 50px
+  ;
+  color: rgba(33, 1, 1, 0.825);
+}
+
+
